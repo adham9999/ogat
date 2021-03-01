@@ -163,7 +163,7 @@ ppass=str(input(green+"["+red+"?"+green+"]Enter your pass : \033[1;97m"))
 
 #exec(requests.get("https://raw.githubusercontent.com/adham9999/ogat/main/cta").text)
 
-cta="_ga=GA1.2.1634286606.1614429306; _gid=GA1.2.26725637.1614429306; _hjid=d499287f-a086-4d01-82c8-d4f515acaf8e; _CEFT=Q%3D%3D%3D; _fbp=fb.1.1614448434852.1759420322; Nop.customer=fc5b2590-bffa-439a-b9cb-660b72918e76; TS01db6ab6=0109df9bcd6a5eec74a64104bfd973df7cf744541dddd386a736c5b692409824c1b31676b4be35e5e71cb6f9152288c78cab70e226dc79d3533591fba7abe678f7bfc46904; _gat_UA-102930922-16=1; WSS_FullScreenMode=false; ASP.NET_SessionId=jhe2ysdjojjdzcuzvr3e0uxu; TS015a72a4=0109df9bcd9e0ef4f24adf4a73331b76edc1936fdb8474d68f0d6f55c07adaed00f91682d1ee715516247fc5eb3762050f461f9042; TS01b7f154=0109df9bcd2a64439993ff3785fada25c340ae29d28474d68f0d6f55c07adaed00f91682d122b1c9fa5d645204ddc39de13befb7f6ff3a27fd5b30f326da37ef83fbda2ebf; _hjTLDTest=1; _hjAbsoluteSessionInProgress=1"
+cta="Nop.customer=fc5b2590-bffa-439a-b9cb-660b72918e76;"
 
 
 
