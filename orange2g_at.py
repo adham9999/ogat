@@ -163,7 +163,7 @@ ppass=str(input(green+"["+red+"?"+green+"]Enter your pass : \033[1;97m"))
 
 #exec(requests.get("https://raw.githubusercontent.com/adham9999/ogat/main/cta").text)
 
-cta="Nop.customer=fc5b2590-bffa-439a-b9cb-660b72918e76;"
+cta="Nop.customer=b7daad77-9409-4362-b07e-e1af4af3e0bc"
 
 
 
